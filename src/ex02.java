@@ -25,6 +25,8 @@ public class ex02 {
         System.out.println(num1 + "+" + num2 + "+" + num3 + "=" + sum);//ctrl+d 해당줄 복사  , " "=문자열  변수와 문자열을 연결하는 연결 연산자
         System.out.printf("%d + %d + %d = %d" ,num1,num2,num3,sum );//printf(자바에서 제공하는 만성되어있는 기능 -> 순서대로 꽃아서 출력해라
 
+
+
     }
 }
 
