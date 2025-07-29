@@ -2,7 +2,7 @@ package 반복제어문2;
 
 import java.util.Scanner;
 
-public class 반복제어문_형성평가9 {
+public class 반복제어문2_형성평가9 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int number = in.nextInt();

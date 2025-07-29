@@ -1,6 +1,6 @@
 package 반복제어문2;
 
-public class 반복제어문_형성평가8 {
+public class 반복제어문2_형성평가8 {
     public static void main(String[] args) {
 
         int row = 3;

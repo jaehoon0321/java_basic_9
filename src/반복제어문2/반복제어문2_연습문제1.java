@@ -1,4 +1,4 @@
-package 반복제어문;
+package 반복제어문2;
 
 import java.util.Scanner;
 

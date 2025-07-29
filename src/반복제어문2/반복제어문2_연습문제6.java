@@ -2,7 +2,7 @@ package 반복제어문2;
 
 import java.util.Scanner;
 //5명의 성적을 입력받아서 총점과 평균을 출력하는 프로그램을 작성하시오. (평균은 반올림하여 소수 첫째자리까지 출력한다.)
-public class 반복제어문_연습문제6 {
+public class 반복제어문2_연습문제6 {
     public static void main(String[] args) {
         Scanner sccanner = new Scanner(System.in);
         int sum = 0;//정수형 0으로 정의

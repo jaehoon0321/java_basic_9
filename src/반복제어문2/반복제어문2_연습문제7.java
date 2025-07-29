@@ -1,6 +1,6 @@
 package 반복제어문2;
 
-public class 반복제어문_연습문제7 {
+public class 반복제어문2_연습문제7 {
     public static void main(String[] args) {
 
         for (int i = 1; i <= 5; i++) {//반복문이 시작 i =1로 시작하고 i= 5와 같거나 작다 i++ 증가//줄 수 :5줄 출략

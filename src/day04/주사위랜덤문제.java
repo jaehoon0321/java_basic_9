@@ -1,4 +1,4 @@
-package 선택제어문;
+package day04;
 
 public class 주사위랜덤문제 {
     public static void main(String[] args) {

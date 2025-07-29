@@ -2,7 +2,7 @@ package 반복제어문2;
 
 import java.util.Scanner;
 
-public class 반복제어문_연습문제4 {
+public class 반복제어문2_연습문제4 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
