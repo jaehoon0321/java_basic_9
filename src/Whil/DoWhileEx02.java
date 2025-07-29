@@ -9,7 +9,7 @@ public class DoWhileEx02 {
 
         Scanner in = new Scanner(System.in);
         String inputString;
-gi
+
         do {
             System.out.print("> ");
             inputString = in.nextLine();
