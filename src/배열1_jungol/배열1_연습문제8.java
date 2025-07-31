@@ -1,4 +1,4 @@
-package javabasic_02.day06.jungol;
+package javabasic.javabasic_02.day06.jungol;
 
 import java.util.Scanner;
 
