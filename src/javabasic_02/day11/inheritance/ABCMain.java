@@ -1,4 +1,4 @@
-package javabasic_02.day11;
+package javabasic_02.day11.inheritance;
 
 public class ABCMain {
     public static void main(String[] args) {

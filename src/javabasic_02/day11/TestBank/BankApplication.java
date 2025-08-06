@@ -1,4 +1,52 @@
-package javabasic_02.day10.bank;
+package javabasic_02.day11.TestBank;
+
+public class BankApplication {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*package javabasic_02.day10.bank;
 
 import java.util.Scanner;
 
@@ -14,7 +62,7 @@ public class BankApplication {
             accounts[i] = new Account2(); // 빈 계좌로 초기화
         }
 
-        while (running) {
+        while (flag) {
             printMenu();
         }
     }
@@ -124,3 +172,4 @@ public class BankApplication {
         return null;
     }
 }
+*/
