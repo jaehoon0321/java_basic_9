@@ -9,7 +9,7 @@ package javabasic_02.day11.Test.Test03;
             return name;
         }
 
-        public double getBaseSalary() {
+        public double getBaseSalry() {
             return baseSalary;
         }
 
@@ -21,7 +21,7 @@ package javabasic_02.day11.Test.Test03;
             this.name = name;
         }
 
-        public void setBaseSalary(double baseSalary) {
+        public void setBaseSalry(double baseSalary) {
             this.baseSalary = baseSalary;
         }
 
