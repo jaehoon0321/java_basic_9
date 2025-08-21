@@ -1,4 +1,4 @@
-package basic_study;
+package basic_study.Q1;
 
 public class Board {
     private String title;
